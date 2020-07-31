@@ -1,0 +1,13 @@
+*~
+*.swp
+
+*.pyc
+*.retry
+
+inventories/group_vars/*/secret/*
+
+galaxy_roles/*
+!galaxy_roles/.keep
+
+tmp/*
+!tmp/.keep
